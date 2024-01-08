@@ -1,3 +1,6 @@
+# Countdown-Display
+A vending machine that will give candy and return change after user enters coins, which can be reset with a button
+
 This is a design for an electronic vending machine which sells candy for 25 cents:
   The machine has a clock (Clk) signal and Reset (Rst) button such that when Reset = I, FSM goes back to an initial state.
   It accepts N (Nickel 5 cents), D (Dime IO cents) and Q (Quarter = 25 cents)
